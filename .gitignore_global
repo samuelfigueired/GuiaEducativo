@@ -1,0 +1,56 @@
+# Ignore common system files and folders outside project
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Ignore common IDE/editor folders
+.vscode/
+.idea/
+*.iml
+
+# Ignore OS generated files
+*.log
+*.tmp
+*.bak
+
+# Ignore user-specific files
+*.swp
+*.swo
+
+# Ignore folders outside project that appear in git status
+.android/
+.cache/
+.config/
+.cursor/
+.dotnet/
+.eclipse/
+.gitconfig
+.h2.server.properties
+.idea/
+.lesshst
+.m2/
+.node_repl_history
+.p2/
+.redhat/
+.sonarlint/
+.sts4/
+.tabnine/
+.templateengine/
+.viminfo
+.vscode/argv.json
+.vscode/extensions/
+AppData/
+BrawlhallaReplays/
+CLionProjects/
+Contacts/
+Downloads/
+Favorites/
+IdeaSnapshots/
+Links/
+Microsoft/
+Music/
+OneDrive/
+OpenVPN/
+Saved Games/
+Searches/
+Videos/
